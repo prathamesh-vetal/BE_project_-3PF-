@@ -1,0 +1,59 @@
+2026-10-09 11:54:53,843 | INFO | Jarvis started successfully.
+2026-10-09 11:54:53,843 | WARNING | This is a warning test.
+2026-10-09 11:54:53,844 | ERROR | This is an error test.
+2026-10-09 11:58:45,663 | INFO | File copied: C:\offline_AI_assistant\app\demo.py -> C:\offline_AI_assistant\demo.py
+2026-10-09 12:04:04,833 | INFO | Renamed file: C:\offline_AI_assistant\demo.py -> C:\offline_AI_assistant\demo1.py
+2026-10-09 12:41:22,281 | INFO | Moved file: C:\offline_AI_assistant\app\demo.py -> C:\offline_AI_assistant\demo.py
+2026-10-09 13:19:56,219 | INFO | Jarvis started successfully.
+2026-10-09 13:19:56,223 | WARNING | This is a warning test.
+2026-10-09 13:19:56,223 | ERROR | This is an error test.
+2026-10-09 13:20:32,116 | INFO | Created folder: C:offline_AI_assistant\tests
+2026-10-09 13:22:05,967 | INFO | Listed 1 folders in C:\offline_AI_assistant\offline_AI_assistant
+2026-10-09 13:23:32,890 | INFO | Jarvis started successfully.
+2026-10-09 13:23:32,891 | WARNING | This is a warning test.
+2026-10-09 13:23:32,891 | ERROR | This is an error test.
+2026-10-09 13:32:53,431 | INFO | Listed 1 files in C:\Users\rajve\AppData\Local\Temp\tmpcd32ok6b
+2026-10-10 17:09:47,376 | INFO | Jarvis started successfully.
+2026-10-10 17:09:47,377 | WARNING | This is a warning test.
+2026-10-10 17:09:47,377 | ERROR | This is an error test.
+2026-10-10 17:13:06,085 | INFO | Jarvis started successfully.
+2026-10-10 17:13:06,088 | WARNING | This is a warning test.
+2026-10-10 17:13:06,089 | ERROR | This is an error test.
+2026-10-11 07:58:50,890 | INFO | Jarvis started successfully.
+2026-10-11 07:58:50,892 | WARNING | This is a warning test.
+2026-10-11 07:58:50,892 | ERROR | This is an error test.
+2026-10-11 07:59:44,414 | INFO | Listed 1 files in C:\Users\rajve\AppData\Local\Temp\tmpfi14yqb6
+2026-10-11 08:16:37,883 | INFO | Copied file: C:\Users\rajve\AppData\Local\Temp\tmprsf5rllm\source\test.txt -> C:\Users\rajve\AppData\Local\Temp\tmprsf5rllm\destination\test.txt
+2026-10-11 08:16:37,888 | INFO | Created folder: C:\Users\rajve\AppData\Local\Temp\tmp786mbyxj\Jarvis_Test
+2026-10-11 08:16:37,896 | INFO | Delete cancelled by user: C:\Users\rajve\AppData\Local\Temp\tmpakv9dplm\source\test.txt
+2026-10-11 08:16:37,899 | INFO | Delete cancelled by user: C:\Users\rajve\AppData\Local\Temp\tmp73tp7oqf\source\test.txt
+2026-10-11 08:16:37,913 | INFO | Retrieved file information: C:\Users\rajve\AppData\Local\Temp\tmpg968b5c9\source\test.txt
+2026-10-11 08:16:37,916 | INFO | Listed 2 files in C:\Users\rajve\AppData\Local\Temp\tmpyycpcf8k\source
+2026-10-11 08:16:37,919 | INFO | Listed 1 folders in C:\Users\rajve\AppData\Local\Temp\tmpfial4_se\source
+2026-10-11 08:16:37,925 | INFO | Moved file: C:\Users\rajve\AppData\Local\Temp\tmp4z683uxq\source\report.pdf -> C:\Users\rajve\AppData\Local\Temp\tmp4z683uxq\destination\report.pdf
+2026-10-11 08:16:37,930 | INFO | Renamed file: C:\Users\rajve\AppData\Local\Temp\tmprg9pe2v5\source\test.txt -> C:\Users\rajve\AppData\Local\Temp\tmprg9pe2v5\source\renamed.txt
+2026-10-11 08:16:37,933 | INFO | File search for 'test.txt' in C:\Users\rajve\AppData\Local\Temp\tmpdnqugc36\source returned 1 results
+2026-10-11 08:23:37,371 | INFO | Deleted file: C:\Users\rajve\AppData\Local\Temp\tmpmx2qzr62\source\test.txt
+2026-10-11 08:23:49,078 | INFO | Copied file: C:\Users\rajve\AppData\Local\Temp\tmpksn8l1sn\source\test.txt -> C:\Users\rajve\AppData\Local\Temp\tmpksn8l1sn\destination\test.txt
+2026-10-11 08:23:49,081 | INFO | Created folder: C:\Users\rajve\AppData\Local\Temp\tmp7g5nuiid\Jarvis_Test
+2026-10-11 08:23:49,087 | INFO | Delete cancelled by user: C:\Users\rajve\AppData\Local\Temp\tmppvuj5o1y\source\test.txt
+2026-10-11 08:23:49,092 | INFO | Deleted file: C:\Users\rajve\AppData\Local\Temp\tmp2w6sll8h\source\test.txt
+2026-10-11 08:23:49,095 | INFO | Retrieved file information: C:\Users\rajve\AppData\Local\Temp\tmpkf4glyhi\source\test.txt
+2026-10-11 08:23:49,098 | INFO | Listed 2 files in C:\Users\rajve\AppData\Local\Temp\tmpafov6d22\source
+2026-10-11 08:23:49,101 | INFO | Listed 1 folders in C:\Users\rajve\AppData\Local\Temp\tmpr85lufgb\source
+2026-10-11 08:23:49,106 | INFO | Moved file: C:\Users\rajve\AppData\Local\Temp\tmp5_m9ot5b\source\report.pdf -> C:\Users\rajve\AppData\Local\Temp\tmp5_m9ot5b\destination\report.pdf
+2026-10-11 08:23:49,111 | INFO | Renamed file: C:\Users\rajve\AppData\Local\Temp\tmpv_d3th4f\source\test.txt -> C:\Users\rajve\AppData\Local\Temp\tmpv_d3th4f\source\renamed.txt
+2026-10-11 08:23:49,116 | INFO | File search for 'test.txt' in C:\Users\rajve\AppData\Local\Temp\tmp89irngww\source returned 1 results
+2026-10-11 08:34:56,451 | INFO | Listed 2 files in C:\Jarvis_Test\Source
+2026-10-11 08:35:24,258 | INFO | Listed 2 folders in C:\Jarvis_Test
+2026-10-11 08:37:36,834 | INFO | Extension search '.txt' in C:\Jarvis_Test\Source returned 2 results
+2026-10-11 08:37:52,485 | INFO | Retrieved file information: C:\Jarvis_Test\Source\test.txt
+2026-10-11 08:38:34,772 | INFO | File search for 'test.txt' in C:\Jarvis_Test\Source returned 1 results
+2026-10-11 08:39:12,692 | WARNING | Create folder skipped: path already exists: C:\Jarvis_Test
+2026-10-11 08:39:39,054 | INFO | Created folder: C:\Jarvis_Test\new_folder
+2026-10-11 08:51:53,243 | INFO | Copied file: C:\Jarvis_Test\Source\test.txt -> C:\Jarvis_Test\new_folder\test.txt
+2026-10-11 08:52:21,722 | INFO | Renamed file: C:\Jarvis_Test\new_folder\test.txt -> C:\Jarvis_Test\new_folder\test1.txt
+2026-10-11 08:53:24,730 | INFO | Deleted file: C:\Jarvis_Test\new_folder\test1.txt
+2026-10-11 12:15:37,250 | INFO | Jarvis started successfully.
+2026-10-11 12:15:37,251 | WARNING | This is a warning test.
+2026-10-11 12:15:37,252 | ERROR | This is an error test.
